@@ -1,6 +1,8 @@
+# Healthcare Analytics
+
 This project contains SQL queries for analyzing a healthcare database. The queries explore patient demographics, hospital performance, treatment costs, and overall healthcare utilization to generate actionable insights.
 
-🔑 Key Features
+## 🔑 Key Features
 
 Patient Demographics: Gender distribution & average age of patients
 
@@ -18,13 +20,13 @@ Subqueries & Views: Create a HospitalPerformance view with admissions, revenue, 
 
 Window Functions: Rank hospitals by revenue and treatments by frequency
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 SQL (MySQL / SQL Server)
 
 Healthcare database with tables: Patients, Admissions, Hospitals, Treatments
 
-📊 Example Insights
+## 📊 Example Insights
 
 Hospitals with the highest revenue vs. longest stays
 
@@ -34,7 +36,7 @@ Most common treatments across all hospitals
 
 Performance benchmarking of hospitals via custom SQL views
 
-▶️ How to Run
+## ▶️ How to Run
 
 Clone the repository:
 
